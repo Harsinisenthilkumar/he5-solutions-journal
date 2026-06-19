@@ -1,7 +1,7 @@
 # Day 07 - Prompt Book Population and Prompt Repository Management
 
 ## Date
-DD-MM-YYYY
+12-06-2026
 
 ## Objective
 
