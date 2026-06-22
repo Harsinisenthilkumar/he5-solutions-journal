@@ -1,7 +1,7 @@
 # Day 08 - Initial Progress Review Meeting
 
 ## Date
-08-06-2026
+13-06-2026
 
 ## Objective
 
